@@ -1,4 +1,4 @@
-[ABCD] Proposal
+Proposal of ABCD
 ---
 
 # Objectives
