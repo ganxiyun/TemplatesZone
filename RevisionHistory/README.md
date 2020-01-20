@@ -1,6 +1,8 @@
 Tags: Revision, History
 
-Revision history is usually seen in formal documents which requires document review and approval. 
+Revision history is usually seen in formal documents which require document review and approval. 
+
+The latest version of a document is usually in the title page, right before the approval page where we write the revision history information.
 
 This template refers [Standford Templates] and [Weather and Environmental Services - QMS Manual]. 
 
